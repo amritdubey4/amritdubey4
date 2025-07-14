@@ -1,6 +1,6 @@
-<!-- 🖼️ Animated Header -->
+<!-- 🖼️ Animated Header (Moving String) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=250&section=header&text=Hi%20I'm%20Amrit%20Dubey!&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0D47A1&center=true&vCenter=true&width=700&lines=Hi+I'm+Amrit+Dubey!;Welcome+to+my+GitHub+profile!" />
 </p>
 
 <h2 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Lifelong Learner 🎓</h2>
@@ -59,6 +59,8 @@
 
 ---
 
+
+
 ### 📫 Let's Connect
 
 <p align="center">
@@ -70,7 +72,7 @@
 
 ---
 
-<!-- 🏁 Footer -->
+<!-- 🏁 Animated Footer (Moving String) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=100&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0D47A1&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Connect+with+me+on+LinkedIn+and+GitHub!;Happy+Coding+%F0%9F%92%BB" />
 </p>
